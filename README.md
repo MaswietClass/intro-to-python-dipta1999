@@ -2,9 +2,9 @@
 
 Jawablah pertanyaan berikut ini dengan singkat dan jelas
 1. Sebutkan 3 jenis tipe variabel di dalam Python
-    * Jawab: 
+    * Jawab: Angka, Huruf, Underscore(_)
 2. Jelaskan mengapa di Python ada aturan Indentation?
-    * Jawab:
+    * Jawab: Di dalam Python memanfaatkan indentasi untuk membuka atau menutup fungsi yang telah dimulai (telah dibuat)
     
 ## Membuat Program Sederhana
 
